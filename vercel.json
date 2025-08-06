@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/api/save-token", "dest": "api/save-token.js" }
+  ]
+}
